@@ -1,0 +1,12 @@
+[project]
+name = "weblate-cli"
+version = "0.1.0"
+description = "CLI tool for Weblate API"
+dependencies = [
+    "requests",
+    "click",
+    "python-dotenv"
+]
+
+[project.scripts]
+weblate = "weblate_cli.cli:app"

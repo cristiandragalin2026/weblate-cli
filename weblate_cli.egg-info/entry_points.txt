@@ -1,0 +1,2 @@
+[console_scripts]
+weblate = weblate_cli.cli:app

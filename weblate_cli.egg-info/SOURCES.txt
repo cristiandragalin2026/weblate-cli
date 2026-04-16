@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+weblate_cli/api.py
+weblate_cli/cli.py
+weblate_cli/client.py
+weblate_cli/utils.py
+weblate_cli.egg-info/PKG-INFO
+weblate_cli.egg-info/SOURCES.txt
+weblate_cli.egg-info/dependency_links.txt
+weblate_cli.egg-info/entry_points.txt
+weblate_cli.egg-info/requires.txt
+weblate_cli.egg-info/top_level.txt
